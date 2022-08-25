@@ -7,8 +7,8 @@
             <dataSource type="POOLED">
                 <property name="driver" value="org.postgresql.Driver" />
                 <property name="url" value="jdbc:postgresql://localhost:5432/dev" />
-                <property name="username" value="scott" />
-                <property name="password" value="yu82618220" />
+                <property name="username" value="postgres" />
+                <property name="password" value="a82618220" />
             </dataSource>
         </environment>
     </environments>
